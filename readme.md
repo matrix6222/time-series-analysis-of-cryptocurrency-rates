@@ -1,3 +1,5 @@
+# Projekt inżynierski
+
 # Time Series Analysis of Cryptocurrency Rates
 
 ## App view
